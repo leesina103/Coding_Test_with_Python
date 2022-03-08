@@ -2,7 +2,7 @@ package Chapter4;
 
 import java.util.*;
 
-public class Knight {
+public class Knight_0402 {
 
 		// word를 그냥 문자로 놓고 똑같이 상대좌표 구해도 아스키코드값으로 계산되므로, 굳이 숫자로 안바꿔줘도 된다.
 	public static int cases(char word, int num) {

@@ -2,7 +2,7 @@ package Chapter4;
 
 import java.util.Scanner;
 
-public class Time {
+public class Time_ex_0402 {
 
 	public static int countThree(int n) {
 		int[] time = new int[2];

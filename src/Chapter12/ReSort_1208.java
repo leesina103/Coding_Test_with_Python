@@ -3,7 +3,7 @@ package Chapter12;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ReSort {
+public class ReSort_1208 {
 
 	public static void resort(String str) {
 		int strlen = str.length();

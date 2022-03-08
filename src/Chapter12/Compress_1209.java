@@ -2,7 +2,7 @@ package Chapter12;
 
 import java.util.Scanner;
 
-public class Compress {
+public class Compress_1209 {
 	
 	// Bottom-up 방식
 	// str문자열을 num개의 단위로 자른 문자열의 길이

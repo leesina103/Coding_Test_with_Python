@@ -3,7 +3,7 @@ package Chapter12;
 import java.util.Scanner;
 
 //https://www.acmicpc.net/problem/18406
-public class LuckyStraight {
+public class LuckyStraight_1207 {
 
 	public static void lucky(String str) {
 		int len = str.length();

@@ -3,7 +3,7 @@ package Chapter4;
 import java.util.Scanner;
 
 // 		while(scan.hasNext()) 또 여기서 실행하면 enter때문에 무한루프걸리는데, 어떻게 해야하지?
-public class LRUD {
+public class LRUD_ex_0401 {
 
 //	public static void main(String[] args) {
 		// TODO Auto-generated method stub

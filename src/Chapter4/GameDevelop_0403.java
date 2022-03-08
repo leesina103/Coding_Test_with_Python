@@ -2,7 +2,7 @@ package Chapter4;
 
 import java.util.Scanner;
 
-public class GameDevelop {
+public class GameDevelop_0403 {
 
 	public static int count = 0;	
 	// 육지이면 0, 바다면 1로 표기
